@@ -18,7 +18,7 @@ status_dict = {
 
 trans_dict = {
     "shutdown": "shortcut:shutdown"
-    "unshutdown": "shortcut:unshutdown"
+    "wakeup": "shortcut:unshutdown"
     "amps": "shortcut:amps",
     "hackcenter": "hackcenter_w",
     "rotlicht": "lounge_t2a",
